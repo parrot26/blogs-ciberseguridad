@@ -1,8 +1,8 @@
 name: Check websites
 
 on:
-  schedule:
-    - cron: "0 12 * * 1"  # Se ejecuta todos los lunes a las 12 PM
+#  schedule:
+#    - cron: "0 12 * * 1"  # Se ejecuta todos los lunes a las 12 PM
 
 jobs:
   check_websites:
