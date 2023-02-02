@@ -30,8 +30,9 @@ jobs:
 
     - name: Check websites
       env:
-        PYTHONPATH: ${{ steps.checkout.workspace }}
+        WEBSITE_STATUS: "${{ run(python ${{ steps.checkout.workspace }}/check_websites.py) }}"
       run: |
         source env/bin/activate
-        python ${{ steps.checkout.workspace }}/check_websites.py
+        echo "Website status: ${WEBSITE_STATUS}"
+
         
