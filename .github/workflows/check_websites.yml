@@ -8,11 +8,11 @@ on:
 
 jobs:
   check_websites:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Check websites
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
       with:
         ref: main
       id: checkout
