@@ -12,13 +12,13 @@ jobs:
 
     steps:
     - name: Check websites
-      uses: actions/checkout@v2
+      uses: actions/checkout@v2.3
       with:
         ref: main
       id: checkout
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v2.1
       with:
         python-version: 3.8
         node-version: 16
