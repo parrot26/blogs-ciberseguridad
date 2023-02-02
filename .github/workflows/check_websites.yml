@@ -1,0 +1,35 @@
+name: Check websites
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"  # Se ejecuta todos los lunes a las 12 PM
+
+jobs:
+  check_websites:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check websites
+      uses: actions/checkout@v2
+      with:
+        ref: main
+      id: checkout
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        python -m venv env
+        source env/bin/activate
+        pip install requests
+
+    - name: Check websites
+      env:
+        PYTHONPATH: ${{ steps.checkout.workspace }}
+      run: |
+        source env/bin/activate
+        python ${{ steps.checkout.workspace }}/check_websites.py
+        
