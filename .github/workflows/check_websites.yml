@@ -18,9 +18,9 @@ jobs:
       id: checkout
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.8.1
+        python-version: '3.x'
         node-version: 16
 
     - name: Install dependencies
