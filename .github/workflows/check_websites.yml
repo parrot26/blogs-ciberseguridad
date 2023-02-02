@@ -32,5 +32,5 @@ jobs:
         PYTHONPATH: ${{ steps.checkout.workspace }}
       run: |
         source env/bin/activate
-        python ${{ steps.checkout.workspace }}/blogs-ciberseguridad/check_websites.py
+        python ${{ steps.checkout.workspace }}/parrot26/blogs-ciberseguridad/check_websites.py
         
