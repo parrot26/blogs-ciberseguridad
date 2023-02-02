@@ -1,0 +1,448 @@
+
+[
+   {
+      "name":"0patch Blog",
+      "url":"https//blog.0patch.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Andrew Hay",
+      "url":"https//www.andrewhay.ca",
+      "description":"En inglés"
+   },
+   {
+      "name":"Apuntes de seguridad de la información",
+      "url":"https//seguridad-de-la-informacion.blogspot.com",
+      "description":"En español"
+   },
+   {
+      "name":"AV-TEST",
+      "url":"https//www.av-test.org/es",
+      "description":"En español"
+   },
+   {
+      "name":"Avast",
+      "url":"https//blog.avast.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Black Fog",
+      "url":"https//www.blackfog.com/data-privacy-blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Bleeping Computer",
+      "url":"https//www.bleepingcomputer.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Ciberseguridad",
+      "url":"https//ciberseguridad.blog",
+      "description":"En español"
+   },
+   {
+      "name":"Cisco",
+      "url":"https//blogs.cisco.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"CRYPTEX",
+      "url":"https//seguridad-informacion.blogspot.com",
+      "description":"En español"
+   },
+   {
+      "name":"CSO",
+      "url":"https//www.csoonline.com/news-analysis",
+      "description":"En inglés"
+   },
+   {
+      "name":"CSO España",
+      "url":"https//cso.computerworld.es/home",
+      "description":"En español"
+   },
+   {
+      "name":"Cyber Defense Magazine",
+      "url":"https//www.cyberdefensemagazine.com/news",
+      "description":"En inglés"
+   },
+   {
+      "name":"CyberArk",
+      "url":"https//www.cyberark.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Cyberhades",
+      "url":"https//www.cyberhades.com",
+      "description":"En español"
+   },
+   {
+      "name":"Dan Kaminsky",
+      "url":"https//dankaminsky.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Dark Reading",
+      "url":"https//www.darkreading.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Darknet",
+      "url":"https//www.darknet.org.uk",
+      "description":"En inglés"
+   },
+   {
+      "name":"Datos101",
+      "url":"https//www.datos101.com/blog",
+      "description":"En español"
+   },
+   {
+      "name":"Debian Hackers",
+      "url":"https//debianhackers.net",
+      "description":"En español"
+   },
+   {
+      "name":"DeboBlog",
+      "url":"https//daboblog.com",
+      "description":"En español"
+   },
+   {
+      "name":"detectify",
+      "url":"https//blog.detectify.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Diarioti",
+      "url":"https//diarioti.com",
+      "description":"En español"
+   },
+   {
+      "name":"Dragonjar",
+      "url":"https//www.dragonjar.org",
+      "description":"En español"
+   },
+   {
+      "name":"el hacker",
+      "url":"https//blog.elhacker.net",
+      "description":"En español"
+   },
+   {
+      "name":"Elie Burztein",
+      "url":"https//elie.net/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Escudo digital",
+      "url":"https//www.escudodigital.com",
+      "description":"En español"
+   },
+   {
+      "name":"Eset WeLiveSecurity",
+      "url":"https//www.welivesecurity.com",
+      "description":"En español"
+   },
+   {
+      "name":"ESGEEKS",
+      "url":"https//esgeeks.com",
+      "description":"En español"
+   },
+   {
+      "name":"F-Secure",
+      "url":"https//www.f-secure.com/weblog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Flu Project",
+      "url":"https//www.flu-project.com",
+      "description":"En español"
+   },
+   {
+      "name":"Flu Project",
+      "url":"https//www.flu-project.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Google Security",
+      "url":"https//googleonlinesecurity.blogspot.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Google Security Blog",
+      "url":"https//security.googleblog.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Graham Cluley",
+      "url":"https//grahamcluley.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Hack Players",
+      "url":"https//www.hackplayers.com",
+      "description":"En español"
+   },
+   {
+      "name":"Hack Times",
+      "url":"https//www.hacktimes.com",
+      "description":"En español"
+   },
+   {
+      "name":"Hacking Articles",
+      "url":"https//www.hackingarticles.in",
+      "description":"En inglés"
+   },
+   {
+      "name":"Hacking Ético",
+      "url":"https//hacking-etico.com",
+      "description":"En español"
+   },
+   {
+      "name":"hackplayers",
+      "url":"https//www.hackplayers.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Help Net Security",
+      "url":"https//www.helpnetsecurity.com/view/news",
+      "description":"En inglés"
+   },
+   {
+      "name":"Hipertextual",
+      "url":"https//hipertextual.com/seguridad",
+      "description":"En español"
+   },
+   {
+      "name":"Immuni Web",
+      "url":"https//www.immuniweb.com/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Imperva",
+      "url":"https//www.imperva.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Incibe",
+      "url":"https//www.incibe.es/protege-tu-empresa/blog",
+      "description":"En español"
+   },
+   {
+      "name":"InfoSpyware",
+      "url":"https//www.infospyware.com",
+      "description":"En español"
+   },
+   {
+      "name":"Inseguros",
+      "url":"https//kinomakino.blogspot.com",
+      "description":"En español"
+   },
+   {
+      "name":"It Security Guru",
+      "url":"https//www.itsecurityguru.org",
+      "description":"En inglés"
+   },
+   {
+      "name":"Itech Sas",
+      "url":"https//www.itechsas.com/blog",
+      "description":"En español"
+   },
+   {
+      "name":"Kaspersky",
+      "url":"https//latam.kaspersky.com",
+      "description":"En español"
+   },
+   {
+      "name":"Kaspersky Secure List",
+      "url":"https//securelist.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Koddos",
+      "url":"https//blog.koddos.net",
+      "description":"En inglés"
+   },
+   {
+      "name":"Krebs on Security",
+      "url":"https//krebsonsecurity.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Liquid Matrix",
+      "url":"https//www.liquidmatrix.org/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"McAfee Blogs",
+      "url":"https//www.mcafee.com/blogs",
+      "description":"En inglés"
+   },
+   {
+      "name":"Muy Seguridad",
+      "url":"https//muyseguridad.net",
+      "description":"En español"
+   },
+   {
+      "name":"Naked Security",
+      "url":"https//nakedsecurity.sophos.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"OSI",
+      "url":"https//www.osi.es/es/actualidad/blog",
+      "description":"En español"
+   },
+   {
+      "name":"Panda Mediacenter",
+      "url":"https//www.pandasecurity.com/es/mediacenter",
+      "description":"En español"
+   },
+   {
+      "name":"PentestLab",
+      "url":"https//pentestlab.blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"proofpoint",
+      "url":"https//www.proofpoint.com/us/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Protegerse",
+      "url":"https//blogs.protegerse.com",
+      "description":"En español"
+   },
+   {
+      "name":"Schneier",
+      "url":"https//www.schneier.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"secpod",
+      "url":"https//www.secpod.com/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Security Boulevard",
+      "url":"https//securityboulevard.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Security Watch",
+      "url":"https//bhconsulting.ie/securitywatch",
+      "description":"En inglés"
+   },
+   {
+      "name":"Security Week",
+      "url":"https//www.securityweek.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Security Weekly",
+      "url":"https//securityweekly.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Securosis",
+      "url":"https//securosis.com/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Segu-Info",
+      "url":"https//blog.segu-info.com.ar",
+      "description":"En español"
+   },
+   {
+      "name":"SniferL4bs",
+      "url":"https//www.sniferl4bs.com",
+      "description":"En español"
+   },
+   {
+      "name":"Social Engineer",
+      "url":"https//www.social-engineer.org/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"SOFISTIC",
+      "url":"https//www.sofistic.com/blog-ciberseguridad",
+      "description":"En español"
+   },
+   {
+      "name":"Sophos News",
+      "url":"https//news.sophos.com/es-419",
+      "description":"En inglés"
+   },
+   {
+      "name":"Spam Loco",
+      "url":"https//www.spamloco.net",
+      "description":"En español"
+   },
+   {
+      "name":"Sucuri Blog",
+      "url":"https//blog.sucuri.net",
+      "description":"En inglés"
+   },
+   {
+      "name":"Synack",
+      "url":"https//www.synack.com/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Taosecurity",
+      "url":"https//taosecurity.blogspot.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Tenable",
+      "url":"https//es-la.tenable.com/blog",
+      "description":"En español"
+   },
+   {
+      "name":"Terry Cutler",
+      "url":"https//terrycutler.com/category/media/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"The Hackers News",
+      "url":"https//thehackernews.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"ThreatPost",
+      "url":"https//threatpost.com",
+      "description":"En inglés"
+   },
+   {
+      "name":"Tripwire",
+      "url":"https//www.tripwire.com/state-of-security",
+      "description":"En inglés"
+   },
+   {
+      "name":"Un informático del lado del mal",
+      "url":"https//www.elladodelmal.com",
+      "description":"En español"
+   },
+   {
+      "name":"Una al día",
+      "url":"https//unaaldia.hispasec.com",
+      "description":"En español"
+   },
+   {
+      "name":"UpGuard",
+      "url":"https//www.upguard.com/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Veracode",
+      "url":"https//www.veracode.com/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"We Secure App",
+      "url":"https//wesecureapp.com/blog",
+      "description":"En inglés"
+   },
+   {
+      "name":"Wired Threat Level",
+      "url":"https//www.wired.com/category/threatlevel",
+      "description":"En inglés"
+   }
+]
