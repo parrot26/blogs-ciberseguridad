@@ -103,7 +103,18 @@ _**La lista está completa?** Claro que no 😕, eso es imposible 😮! La idea 
 
 # Plus:
 
-_Próximamente_
+_Además de contar con esta lista de Blogs era necesario, o no, saber cuando una página deja de funcionar para luego hacer un check a mano y saber si ese Blog sigue operativo o cambió su url o pasó algo._
+_**Cómo se podría lograr?**  Había muchas formas de hacerlo pero se quizo jugar un poco con el potencial de **GitHub Actions** y entre todas las diferentes alternativas se optó por utilizar la librería **requests** de Python para realizar peticiones http._
+
+#### El sistema:
+_1.  Se activa el evento trigger en GitHub cuando se realiza un push o un pull request en la rama "main".
+2.  Se configura el entorno de trabajo para correr en una máquina virtual con sistema operativo Ubuntu 22.04.
+3.  Se descarga y se chequea el código fuente del repositorio.
+4.  Se establece la versión de Python a utilizar en la máquina virtual.
+5.  Se instalan las dependencias necesarias para correr el script (en este caso se utiliza la biblioteca "requests").
+6.  Se activa el entorno virtual de Python.
+7.  Se ejecuta el script Python "check_webpages.py".
+8.  El resultado de la ejecución del script se muestra en la pestaña "Actions" del repositorio en GitHub._
 
 # 
 ### Contribuyendo 🖇️
