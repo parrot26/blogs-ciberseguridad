@@ -1,3 +1,5 @@
+![Imagen.](/images/blogs_ciberseguridad.png "Imagen.")
+
 #
 # _Blogs de Ciberseguridad_
 
@@ -102,6 +104,7 @@ _**La lista está completa?** Claro que no 😕, eso es imposible 😮! La idea 
 
 
 # Plus:
+![Imagen.](/images/github_actions.png "Imagen.")
 
 _Además de contar con esta lista de Blogs era necesario, o no, saber cuando una página deja de funcionar para luego hacer un check a mano y saber si ese Blog sigue operativo o cambió su url o pasó algo._
 
