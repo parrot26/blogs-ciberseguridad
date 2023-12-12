@@ -149,6 +149,6 @@ _Si queres aportar con alguna sugerencia para mejorarlo, simplemente un **fork**
 
 
 ---
-⌨️ con ❤️ por [Juan Pablo Soto](https://github.com/parrot26)
+⌨️ con  ❤️ por [Juan Pablo Soto](https://github.com/parrot26)
 
 
